@@ -9,6 +9,12 @@ body {
   margin-top: 20px;
   margin-bottom: 20px;
 }
+a#daveheader{
+  text-decoration: underline;
+}
+a#daveheader:hover{
+  font-weight: 600;
+}
 #daveheader{
   font-size:30px;
   color: red;
